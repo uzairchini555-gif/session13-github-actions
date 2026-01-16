@@ -1,0 +1,23 @@
+[33mcommit fe87f7b32ca228ebe3cabce1869b72d88323097f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-10-0-1-138.ap-southeast-2.compute.internal>
+Date:   Fri Jan 16 14:44:22 2026 +0000
+
+    Add Github Actions workflow and requirements
+
+[33mcommit 0513aa89854f010d04785db4b99cd50dfaeff0f1[m
+Author: Uzair <uzairchini555@gmail.com>
+Date:   Fri Jan 16 19:32:42 2026 +0500
+
+    Add CI workflow
+
+[33mcommit 3f1040d205b277a10de5d86d31ee636fa82e3bc5[m
+Author: EC2 Default User <ec2-user@ip-10-0-1-138.ap-southeast-2.compute.internal>
+Date:   Fri Jan 16 14:29:17 2026 +0000
+
+    Add CI workflow
+
+[33mcommit 6e22a2102bb7b4e63f39f860c892f1b8b67afa25[m
+Author: EC2 Default User <ec2-user@ip-10-0-1-138.ap-southeast-2.compute.internal>
+Date:   Fri Jan 16 14:05:08 2026 +0000
+
+    Add basic python app for CI
