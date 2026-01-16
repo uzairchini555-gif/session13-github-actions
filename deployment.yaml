@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: session13-app
+ namespaec: session13
+spec:
+ replicas: 1
+ selector: 
+  matchLabels: 
+   app: session13-app
+ template: 
+  metadata:
+   labels: 
+    app: session13-app
+  spec:
+   conatainers: 
+   - name: session13-app
+     image:   uzairchini/session13-app:1.0
+     ports:
+     - containerPort: 5000
